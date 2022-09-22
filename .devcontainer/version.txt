@@ -1,0 +1,8 @@
+I tend to copy this devcontainer to a LOT of repos.  It would probably be best to use a git submodule but 
+for now this is my solution to remember what ver is in each repo.  
+
+
+1.0 = base container
+1.1 = fuguesql
+1.2 = %run -i
+1.3 = imblearn
