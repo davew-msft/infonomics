@@ -28,7 +28,7 @@ You can [download the presentation](./Infonomics.pdf) and follow along with me.
     * we use Synapse Spark for this example, you will need to import the notebook into your Synapse workspace
 3. **Marketing Campaign Analytics**. Let's use some data and critical thinking to recommend _what should we do next?_ 
     * [Demo Notebook](./SocialMediaCampaignAnalytics.ipynb):  load this up into your Synapse workspace and execute.  
-
-
+4. **Customer Behavioral Analytics**.  Let's look at who will purchase from us and why.  
+    * [Demo Notebook](./Behavioral_Analytics.ipynb)
 
 
